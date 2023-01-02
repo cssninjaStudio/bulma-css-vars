@@ -1,5 +1,5 @@
 {
-  "name": "bulma-css-vars",
+  "name": "@cssninja/bulma-css-vars",
   "version": "0.8.0",
   "description": "Bulma with CSS variables",
   "keywords": [
@@ -33,12 +33,13 @@
     "build": "tsc -p tsconfig.json && tsc -p tsconfig-esm.json && webpack",
     "prepare": "npm run build",
     "prepublishOnly": "npm run test && npm run build && cp ../README.md .",
-    "test": "jest"
+    "test": "jest",
+    "release": "npx standard-version && git push --follow-tags origin master && npm publish"
   },
   "author": "Thomas Wirth <thomas@wtho.de>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wtho/bulma-css-vars"
+    "url": "https://github.com/cssninjaStudio/bulma-css-vars"
   },
   "license": "MIT",
   "engines": {
