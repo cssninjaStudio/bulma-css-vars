@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.9.2](https://github.com/cssninjaStudio/bulma-css-vars/compare/v0.9.1...v0.9.2) (2023-01-02)
+
+
+### Bug Fixes
+
+* bulma import path from org package ([e178289](https://github.com/cssninjaStudio/bulma-css-vars/commit/e1782892cdd465436d44adfa5398fa06ac15a1a6))
+
 ### [0.9.1](https://github.com/cssninjaStudio/bulma-css-vars/compare/v0.9.0...v0.9.1) (2023-01-02)
 
 
