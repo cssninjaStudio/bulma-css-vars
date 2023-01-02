@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.9.1](https://github.com/cssninjaStudio/bulma-css-vars/compare/v0.9.0...v0.9.1) (2023-01-02)
+
+
+### Bug Fixes
+
+* **cli:** allow to load cjs file, and force cjs for cli for node 18+ ([e7fa9a0](https://github.com/cssninjaStudio/bulma-css-vars/commit/e7fa9a044aab5243ff76128cf9180fe7874d403c))
+
 ## 0.9.0 (2023-01-02)
 
 
