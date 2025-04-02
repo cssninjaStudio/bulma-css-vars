@@ -16,6 +16,11 @@
       "import": "./dist/esm/index.js",
       "require": "./dist/cjs/index.js"
     },
+    "./*.sass": {
+      "sass": "./*.sass",
+      "style": "./*.sass",
+      "default": "./*.sass"
+    },
     "./*": {
       "import": "./dist/esm/*.js",
       "require": "./dist/cjs/*.js"
