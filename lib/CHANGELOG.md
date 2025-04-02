@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.9.3](https://github.com/cssninjaStudio/bulma-css-vars/compare/v0.9.2...v0.9.3) (2025-04-02)
+
+### Bug Fixes
+
+* add *.sass to module exports ([981b7c8](https://github.com/cssninjaStudio/bulma-css-vars/commit/981b7c89087da65ddb0a520c4e4dc170c77fb9a1))
+
+
 ### [0.9.2](https://github.com/cssninjaStudio/bulma-css-vars/compare/v0.9.1...v0.9.2) (2023-01-02)
 
 
